@@ -1,0 +1,62 @@
+[
+  {
+    "id": "doc_001",
+    "title": "Genkit AI Overview & Mission",
+    "category": "Company Overview",
+    "content": "Genkit AI is a leading enterprise neural intelligence platform powering next-generation conversational agents and automated business solutions. Our custom Transformer architectures combine self-attention neural models with Retrieval-Augmented Generation (RAG) to deliver fast, highly accurate, and domain-grounded responses tailored for enterprise workflows."
+  },
+  {
+    "id": "doc_002",
+    "title": "Core AI & Machine Learning Services",
+    "category": "Services Offered",
+    "content": "Genkit AI provides specialized AI development services including: 1) Custom LLM & Transformer Fine-Tuning, 2) Enterprise RAG (Retrieval-Augmented Generation) Vector Engine Setup, 3) Autonomous AI Agent Workflows, 4) Custom Subword Tokenizer & Model Compression, and 5) Intelligent Search & Knowledge Base Indexing."
+  },
+  {
+    "id": "doc_003",
+    "title": "Full-Stack Web & Software Development",
+    "category": "Services Offered",
+    "content": "In addition to AI solutions, Genkit AI offers full-stack web and cloud application development. We build modern, high-performance web apps using React, Vite, Next.js, Python FastAPI, and Node.js. Our team designs scalable cloud backend microservices, real-time streaming APIs (SSE & WebSockets), and containerized Docker/Kubernetes deployments."
+  },
+  {
+    "id": "doc_004",
+    "title": "RAG Architecture & Document Indexing Pipeline",
+    "category": "Technology Architecture",
+    "content": "Our proprietary RAG engine processes PDF, DOCX, and TXT files into overlapping semantic text chunks (300 characters with 50-character overlap). Dense vector embeddings are generated and stored in a vector database. When a user asks a query, cosine similarity vector search retrieves the top matching context chunks, which are fed into the prompt builder to produce accurate, context-grounded AI responses."
+  },
+  {
+    "id": "doc_005",
+    "title": "Security, Compliance & User Data Isolation",
+    "category": "Security & Privacy",
+    "content": "Security is built into every layer of Genkit AI. We utilize JWT (JSON Web Tokens) with 60-minute expiration for session authentication, combined with bcrypt salt password hashing. User chat sessions and uploaded knowledge base documents are strictly isolated per user/organization. All data transmission is encrypted using HTTPS and TLS 1.3."
+  },
+  {
+    "id": "doc_006",
+    "title": "Model Training & Custom Architecture Specifications",
+    "category": "AI Development",
+    "content": "The underlying PyTorch model features 4 encoder layers, 4 decoder layers, 8 multi-head attention mechanisms, and a 256 d_model dimension size. It uses custom subword tokenization trained on domain-specific corpora to optimize inference speed and token efficiency for low-latency edge and cloud deployment."
+  },
+  {
+    "id": "doc_007",
+    "title": "Pricing Plans & Custom Project Estimates",
+    "category": "Pricing & Packages",
+    "content": "Genkit AI offers flexible engagement models: 1) Starter Tier for SMB chatbot integration, 2) Professional Tier for enterprise RAG document indexing and multi-user support, and 3) Enterprise Tier with custom model pre-training, dedicated GPU infrastructure, and SLA support. Clients can request a free consultation or custom quote by leaving their details in the chat widget."
+  },
+  {
+    "id": "doc_008",
+    "title": "Contact Information & Consultation",
+    "category": "Contact Information",
+    "content": "You can reach Genkit AI directly for inquiries, technical consultations, or project quotes. Contact our engineering team at support@genkit.ai or info@genkit.ai. Our team operates 24/7 for enterprise support and responds to quote requests within 1 business hour."
+  },
+  {
+    "id": "doc_009",
+    "title": "Supported File Formats & Document Upload",
+    "category": "Product Features",
+    "content": "Genkit AI supports automated document parsing for PDF files (.pdf), Word documents (.docx), plain text files (.txt), and direct web page scraping. Uploaded documents are automatically parsed, chunked, embedded, and indexed into the active RAG vector database instantly via the Admin Dashboard."
+  },
+  {
+    "id": "doc_010",
+    "title": "Industry Solutions & Use Cases",
+    "category": "Case Studies",
+    "content": "Genkit AI powers AI transformation across diverse industries: Healthcare (patient query routing & medical PDF search), E-Commerce & Retail (24/7 customer support & product recommendations), Legal & Finance (contract analysis & regulatory compliance search), and Tech Enterprises (developer documentation & internal wiki Q&A)."
+  }
+]
